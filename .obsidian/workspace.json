@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ca8855acd1dc49db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "03be34bd7bac94d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "581851c4007fd3e4",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,6 +147,20 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "5b6bd6e8f99ca703",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3a761933c918e5c",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,7 +177,7 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "581851c4007fd3e4",
+  "active": "26da0b2fe7436d8e",
   "lastOpenFiles": [
     "Untitled.md",
     "Test.md"
