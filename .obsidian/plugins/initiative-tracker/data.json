@@ -72,7 +72,7 @@
   "version": null,
   "canUseDiceRoll": false,
   "preferStatblockLink": false,
-  "initiative": "0 + %mod%",
+  "initiative": "%mod%",
   "modifier": null,
   "sync": true,
   "leafletIntegration": false,
@@ -86,7 +86,7 @@
         "modifier": 0,
         "hp": 12,
         "ac": 22,
-        "id": "ID_68dad86a7bb9",
+        "id": "ID_390a28aa298b",
         "currentHP": 12,
         "tempHP": 0,
         "status": [],
@@ -95,7 +95,24 @@
         "active": false,
         "hidden": false,
         "friendly": false,
-        "hit_dice": "21d20 + 146"
+        "hit_dice": "2d10kh+1"
+      },
+      {
+        "name": "Aboleth",
+        "initiative": 0,
+        "modifier": 0,
+        "hp": 135,
+        "ac": 17,
+        "id": "ID_095b48480ac9",
+        "currentHP": 135,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "xp": 5900,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "18d10"
       }
     ],
     "state": false,
