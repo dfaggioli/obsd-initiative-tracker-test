@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "26da0b2fe7436d8e",
+            "id": "74a3b45f13dd6767",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -147,20 +147,6 @@
           }
         ],
         "currentTab": 5
-      },
-      {
-        "id": "5b6bd6e8f99ca703",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f3a761933c918e5c",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -177,7 +163,7 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "26da0b2fe7436d8e",
+  "active": "581851c4007fd3e4",
   "lastOpenFiles": [
     "Untitled.md",
     "Test.md"

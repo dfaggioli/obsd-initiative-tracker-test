@@ -2500,10 +2500,10 @@ ${e}`
     return DEFAULT_UNDEFINED;
   }
   get initiative() {
-    return this._initiative + this.modifier;
+    return this._initiative;
   }
   set initiative(x) {
-    this._initiative = Number(x) - this.modifier;
+    this._initiative = Number(x);
   }
   getName() {
     let name2 = [this.display ?? this.name];

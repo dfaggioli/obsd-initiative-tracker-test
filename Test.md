@@ -5,7 +5,7 @@ monster: Ancient Black Dragon
 name: Paarthurnax
 dice: true
 #modifier: "1d10+1"
-modifier: 1d10
+modifier: 1d12
 statblock: true
 hit_dice: 2d10kh+1
 hp: 12
@@ -21,3 +21,5 @@ creatures:
 ```
 
 `dice: 1d1`
+
+`dice: 1 + (2)`
